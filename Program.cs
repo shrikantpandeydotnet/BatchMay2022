@@ -90,6 +90,8 @@ namespace ITExpertsERa_BatchMay2022
 
             //Console.WriteLine(result);
 
+            Console.WriteLine("New Changes");
+
             Console.WriteLine(1 % 4);
 
             Console.Read();
