@@ -6,6 +6,8 @@ namespace ITExpertsERa_BatchMay2022
 {
     class Car
     {
-        public int CarName { get; set; }
+        public string CarName { get; set; }
+        
+        public string CarModel { get; set; }
     }
 }
