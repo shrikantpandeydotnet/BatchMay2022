@@ -9,5 +9,7 @@ namespace ITExpertsERa_BatchMay2022
         public string CarName { get; set; }
         
         public string CarModel { get; set; }
+
+        public int NoOfWheel { get; set; }
     }
 }
